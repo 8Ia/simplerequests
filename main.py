@@ -1,6 +1,5 @@
 from tkinter import *
 import requests
-from requests.exceptions import *
 root = Tk()
 
 
